@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsUsuario" value="name:IDUsuario;datatype:int,name:NoEmpleado;datatype:int,name:Password;datatype:string,name:Nombre;datatype:string" />
+	<infoitem key="UD_rsAnios" value="name:Anio;datatype:int" />
+	<infoitem key="UD_rsRecibos" value="name:Anio;datatype:int,name:Semana;datatype:string,name:NombreArchivo;datatype:string" />
+</info>

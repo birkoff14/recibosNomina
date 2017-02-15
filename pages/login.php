@@ -14,8 +14,8 @@ if (isset($_POST['noempleado'])) {
   $loginUsername=$_POST['noempleado'];
   $password=sha1($_POST['password']);
   $MM_fldUserAuthorization = "";
-  $MM_redirectLoginSuccess = "http://www.google.com";
-  $MM_redirectLoginFailed = "http://www.yahoo.com";
+  $MM_redirectLoginSuccess = "principal.php?IDYear=";
+  $MM_redirectLoginFailed = "login.php";
   $MM_redirecttoReferrer = false;
   mysql_select_db($database_oConn, $oConn);
   

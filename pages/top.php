@@ -162,7 +162,7 @@ function EnviaForm(){
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="principal.php">Man Truck and BUS | Sistema de vacaciones</a>
+                <a class="navbar-brand" href="principal.php">Man Truck and BUS | Impresion de recibos</a>
   </div>
             <!-- /.navbar-header -->
 
